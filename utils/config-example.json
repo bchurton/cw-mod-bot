@@ -1,0 +1,19 @@
+{
+    "token":"",
+    "prefix":"",
+    "appealsLink":"",
+
+    "database": {
+        "mongo":" ",
+        "collection":""
+    },
+
+    "damage_logs":"",
+    "ban_logs":"",
+    "mute_logs":"",
+    "audit_logs":"",
+    "feedback_logs":"",
+
+    "banDamage":25,
+    "muteDamage":3
+}
